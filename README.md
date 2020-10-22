@@ -1,2 +1,2 @@
 # Algernon
-Intrinsic upside down reinforcement learning mice.
+Intrinsic upside down reinforcement learning mouse experiment.
